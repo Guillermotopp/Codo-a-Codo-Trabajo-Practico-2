@@ -1,0 +1,12 @@
+
+section{ 
+    height:auto;
+}
+ol{
+    display: inline-block;
+}
+.imagen{
+    height: auto;
+    width: 300px;
+    margin: 30px 0px 0px 30px;
+}
